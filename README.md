@@ -33,11 +33,11 @@ All credit goes to original authors below;
 
     a) download latest boost and unpack it.
 
-       $ tar zxvf boost_1_47_0.tar.gz
+       $ tar zxvf boost_1_78_0.tar.gz 
 
     b) change to the boost directory and run ./bootstrap.sh.
 
-       $ cd  boost_1_47_0
+       $ cd  boost_1_78_0
        $ ./bootstrap.sh
 
     c) Run ./b2 and set the install path. 
